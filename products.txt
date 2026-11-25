@@ -1,0 +1,6 @@
+P101,popairbud,south,899.1
+P102,headphone,India,5888.0
+P103,mobile,japan,5000.0
+P104,mobile,japan,5000.0
+P105,mobile,japan,5000.0
+P106,OPPo,Samsung,15999.0
